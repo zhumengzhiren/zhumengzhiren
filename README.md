@@ -8,9 +8,9 @@ Name's **York** (He / Him), Undergraduate student at the University of Toronto, 
 
 - 💪 Exercise in Gym.
 - 📖 Reading books, my [Bookshelf](https://weread.qq.com/web/shelf).
-- 🎵 Listening to music, my [NetEase Cloud Music](https://music.163.com/#/user/home?id=624725550).
+- 🎵 Listening to music, my [NetEase Cloud Music Account](https://music.163.com/#/user/home?id=624725550).
 - 🎮 Playing games, my favourite game type is turn-based RPG, I also enjoys boardgame like DND.
-- 🍽️ Enjoying delicious food, check my [Instagram Account](https://www.instagram.com/zhumengzhiren/).
+- 🍽️ Enjoying delicious food, check my [Instagram Account](https://www.instagram.com/zhumengzhiren/) to see details.
 - 👏 Applauding for love.
 
 ## ✨ Skills
