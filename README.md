@@ -1,8 +1,8 @@
 ## 🗡️ Thanks for checking out my profile!
 
-Name's **York** (He / Him), Undergraduate student at the University of Toronto, Computer Science Specialist. 
+My name is **York** (He / Him), graduate student at the University of Toronto with degree of Honours Bachelor of Science with High Distinction. 
 
-![York's GitHub stats](https://github-readme-stats.vercel.app/api?username=lei-tin&show_icons=true&theme=vue&rank_icon=github)
+![York's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhumengzhiren&show_icons=true&theme=vue&rank_icon=github)
 
 ## 💖 Hobbies
 
