@@ -9,19 +9,19 @@ My name is **York** (He / Him), graduate student at the University of Toronto wi
 - 💪 Exercise in Gym.
 - 📖 Reading books, my [Bookshelf](https://weread.qq.com/web/shelf).
 - 🎵 Listening to music, my [NetEase Cloud Music Account](https://music.163.com/#/user/home?id=624725550).
-- 🎮 Playing games, my favourite game type is turn-based RPG, I also enjoys boardgame like DND.
+- 🎮 Playing games, my favourite game type is turn-based RPG, I also enjoy boardgame like DND.
 - 🍽️ Enjoying delicious food, check my [Instagram Account](https://www.instagram.com/zhumengzhiren/) to see details.
 - 👏 Applauding for love.
 
 ## ✨ Skills
 
-- Python (NumPy, OpenCV, PyTorch)
-- Java (JUnit)
-- SQL (MySQL, PostgreSQL)
+- Python (NumPy, Panda)
+- Java
+- SQL (MySQL, PostgreSQL, DuckDB)
 - HTML + CSS
 - JavaScript (React)
-- C
 - Typescript
+- C
 - Shell (Bash, ZSH)
 - Linux / Unix
 - MIPS Assembly
