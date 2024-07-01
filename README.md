@@ -5,7 +5,7 @@
 -->
 
 ### About Me
-Hello! I'm [Your Name], a passionate and dedicated software developer with a strong background in Computer Science and Engineering. I have a knack for solving complex problems and building efficient, scalable software solutions. Currently, I am actively seeking new job opportunities where I can apply my skills and continue to grow professionally.
+Hello! I'm Yuanfan Chen, a passionate and dedicated software developer with a strong background in Computer Science and Engineering. I have a knack for solving complex problems and building efficient, scalable software solutions. Currently, I am actively seeking new job opportunities where I can apply my skills and continue to grow professionally.
 
 Professional Skills
 Programming Languages: Python, Java, JavaScript, SQL
