@@ -1,21 +1,29 @@
-## Hi there 👋
+## 🗡️ Thanks for checking out my profile!
 
-<!--
-**zhumengzhiren/zhumengzhiren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+Name's **York** (He / Him), Undergraduate student at the University of Toronto, Computer Science Specialist. 
 
-### About Me
-Hello! I'm Yuanfan Chen, a passionate and dedicated software developer with a strong background in Computer Science and Engineering. I have a knack for solving complex problems and building efficient, scalable software solutions. Currently, I am actively seeking new job opportunities where I can apply my skills and continue to grow professionally.
+![York's GitHub stats](https://github-readme-stats.vercel.app/api?username=lei-tin&show_icons=true&theme=vue&rank_icon=github)
 
-Professional Skills
-Programming Languages: Python, Java, JavaScript, SQL
-Web Development: HTML5, CSS3, JQuery, ReactJS
-Frameworks: Django, Flask
-Database Management: MySQL, PostgreSQL, SQL Server, MongoDB
-API Development: RESTful APIs, Web Services
-Cloud Platforms: AWS
-Data Visualization: Tableau
-Version Control: Git, GitHub
+## 💖 Hobbies
 
-Hope you always stay young.
+- 💪 Exercise in Gym.
+- 📖 Reading books, my [Bookshelf](https://weread.qq.com/web/shelf).
+- 🎵 Listening to music, my [NetEase Cloud Music](https://music.163.com/#/user/home?id=624725550).
+- 🎮 Playing games, my favourite game type is turn-based RPG, I also enjoys boardgame like DND.
+- 🍽️ Enjoying delicious food, check my [Instagram Account](https://www.instagram.com/zhumengzhiren/).
+- 👏 Applauding for love.
 
+## ✨ Skills
+
+- Python (NumPy, OpenCV, PyTorch)
+- Java (JUnit)
+- SQL (MySQL, PostgreSQL)
+- HTML + CSS
+- JavaScript (React)
+- C
+- Typescript
+- Shell (Bash, ZSH)
+- Linux / Unix
+- MIPS Assembly
+
+### 💓 Thanks for reading these!
