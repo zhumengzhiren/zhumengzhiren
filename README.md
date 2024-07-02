@@ -11,7 +11,6 @@ My name is **York** (He / Him), graduate student at the University of Toronto wi
 - 🎵 Listening to music, my [NetEase Cloud Music Account](https://music.163.com/#/user/home?id=624725550).
 - 🎮 Playing games, my favourite game type is turn-based RPG, I also enjoy boardgame like DND.
 - 🍽️ Enjoying delicious food, check my [Instagram Account](https://www.instagram.com/zhumengzhiren/) to see details.
-- 👏 Applauding for love.
 
 ## ✨ Skills
 
