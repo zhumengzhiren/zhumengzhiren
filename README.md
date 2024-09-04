@@ -1,5 +1,7 @@
 ## 🗡️ Thanks for checking out my profile!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yuanfan-chen-97b1a8280/)  ![yuanfan0504@gmail.com](https://img.shields.io/badge/yuanfan0504%40gmail.com-white?logo=gmail)
+
 My name is **York** (He / Him), graduate student at the University of Toronto with degree of Honours Bachelor of Science with High Distinction. 
 
 ![York's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhumengzhiren&show_icons=true&theme=vue&rank_icon=github)
