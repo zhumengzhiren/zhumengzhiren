@@ -27,14 +27,6 @@ My name is **York** (He / Him), graduate student at the University of Toronto wi
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
 
-## 💖 Hobbies
-
-- 💪 Exercise in Gym.
-- 📖 Reading books, my [Bookshelf](https://weread.qq.com/web/shelf).
-- 🎵 Listening to music, my [NetEase Cloud Music Account](https://music.163.com/#/user/home?id=624725550).
-- 🎮 Playing games, my favourite game type is turn-based RPG, I also enjoy boardgame like DND.
-- 🍽️ Enjoying delicious food, check my [Instagram Account](https://www.instagram.com/zhumengzhiren/) to see details.
-
 ## ✨ Skills
 
 - Python (NumPy, Panda)
@@ -48,4 +40,4 @@ My name is **York** (He / Him), graduate student at the University of Toronto wi
 - Linux / Unix
 - MIPS Assembly
 
-### 💓 Thanks for reading these!
+### Thanks for reading these!
