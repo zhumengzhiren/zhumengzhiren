@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yuanfan-chen-97b1a8280/)  ![yuanfan0504@gmail.com](https://img.shields.io/badge/yuanfan0504%40gmail.com-white?logo=gmail)
 
-My name is **York** (He / Him), graduate student at the University of Toronto with degree of Honours Bachelor of Science with High Distinction. 
+My name is **York** (He / Him), graduate student at the University of Toronto with degree of Honours Bachelor of Science with High Distinction. I am going to University of Cornell taking my graduate student degree.
 
 ![York's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhumengzhiren&show_icons=true&theme=vue&rank_icon=github)
 
@@ -29,15 +29,15 @@ My name is **York** (He / Him), graduate student at the University of Toronto wi
 
 ## ✨ Skills
 
-- Python (NumPy, Panda)
+- Python 
 - Java
-- SQL (MySQL, PostgreSQL, DuckDB)
-- HTML + CSS
-- JavaScript (React)
-- Typescript
-- C
+- SQL (MySQL, RocksDB)
+- TypeScript (React)
+- C++
 - Shell (Bash, ZSH)
 - Linux / Unix
-- MIPS Assembly
+- Redis 
+- Message queue (Kafka, RabbitMQ)
+- Container (Docker, Kubernetes)
 
 ### Thanks for reading these!
