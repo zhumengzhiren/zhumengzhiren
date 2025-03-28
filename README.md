@@ -1,11 +1,8 @@
-## 🗡️ Thanks for checking out my profile!
+## Thanks for checking out my profile!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yuanfan-chen-97b1a8280/)  ![yuanfan0504@gmail.com](https://img.shields.io/badge/yuanfan0504%40gmail.com-white?logo=gmail)
 
 My name is **York** (He / Him), graduate student at the University of Toronto with degree of Honours Bachelor of Science with High Distinction. I am going to University of Cornell taking my graduate student degree.
-
-![York's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhumengzhiren&show_icons=true&theme=vue&rank_icon=github)
-
 
 ## 🥇 Programing Languages 
 
@@ -27,11 +24,10 @@ My name is **York** (He / Him), graduate student at the University of Toronto wi
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
 
-## ✨ Skills
-
+## Skills
 - Python 
 - Java
-- SQL (MySQL, RocksDB)
+- SQL (MySQL, RocksDB, TIDB)
 - TypeScript (React)
 - C++
 - Shell (Bash, ZSH)
@@ -39,5 +35,3 @@ My name is **York** (He / Him), graduate student at the University of Toronto wi
 - Redis 
 - Message queue (Kafka, RabbitMQ)
 - Container (Docker, Kubernetes)
-
-### Thanks for reading these!
