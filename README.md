@@ -1,19 +1,45 @@
-## Thanks for checking out my profile.
+<h1 align="center">Hi, I'm Yuanfan Chen</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yuanfan-chen-97b1a8280/)  ![yuanfan0504@gmail.com](https://img.shields.io/badge/yuanfan0504%40gmail.com-white?logo=gmail)
+<p align="center">
+  <strong>ML Systems Researcher</strong>
+</p>
 
-My name is **York** (He / Him), graduate student at the University of Toronto with degree of Honours Bachelor of Science with High Distinction. I am now in University of Cornell (Tech) taking my Master degree.
+<p align="center">
+  <a href="https://zhumengzhiren.github.io/">Website</a> ·
+  <a href="https://www.linkedin.com/in/yuanfan-chen-97b1a8280/">LinkedIn</a> ·
+  <a href="mailto:yuanfan0504@gmail.com">Email</a>
+</p>
 
-## Research Experience
+## About Me
 
-I mainly focus on system area, I have worked as research assistant in database and network filed. I am now turning to research in MLSYS.
+I am an ML systems researcher working on efficient infrastructure for large-scale machine learning. My research focuses on model inference, distributed scheduling, and hardware-aware optimization.
 
-## Working Experience
+I received my M.Eng. in Computer Science from Cornell University and my B.Sc. in Computer Science from the University of Toronto. I have research and engineering experience at Cornell Tech, Tencent, and the University of Toronto's Far Data Lab.
 
-I have done some projects about database kernel, distributed system.
+## Research Interests
 
-## Future Interest
+- Large-scale model inference systems
+- Distributed scheduling
+- Hardware-aware kernel optimization
+- ML infrastructure and database systems
 
-I believe agent will be a powerful tool in the future, therefore there should be a compatible system for it. I am focusing on whether I can gain some efforts from it.
+## Selected Publications
 
+- **Beyond Prediction: Tail-Aware Scheduling for LLM Inference**  
+  Yueying Li, **Yuanfan Chen**, Jiayang Chen, Esha Choukse, Haoran Qiu, G. Edward Suh, Rodrigo Fonseca, Ziv Scully, Udit Gupta  
+  *ICML 2026* · [arXiv](https://arxiv.org/abs/2606.18431) · [Project Website](https://yl3469.github.io/uniboost-icml26/)
 
+- **Making Sense of DPU Performance for Cloud Data Processing: Experiment, Analysis & Benchmark**  
+  Jiasheng Hu, Chihan Cui, **Yuanfan Chen**, Philip A. Bernstein, Jialin Li, Qizhen Zhang  
+  *arXiv, 2025* · [arXiv](https://arxiv.org/abs/2504.05536)
+
+## Experience Highlights
+
+- **Research Assistant, Cornell Tech** — LLM serving, tail-aware scheduling, and high-fidelity simulation
+- **AI Infrastructure Engineer, Tencent** — distributed databases, admission control, and fault-tolerant cluster recovery
+- **Research Assistant, University of Toronto** — DPU benchmarking and data-processing offload
+
+## Education
+
+- **Cornell University** — M.Eng. in Computer Science
+- **University of Toronto** — B.Sc. in Computer Science, High Distinction
