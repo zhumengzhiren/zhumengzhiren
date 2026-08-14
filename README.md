@@ -29,6 +29,10 @@ bottlenecks become research questions, and research results ship.
 - Hardware-aware optimization: GPU (CUDA/ROCm) and DPU systems
 - The load-bearing plumbing: admission control, fault tolerance, capacity planning
 
+## Open Source
+
+- **[sglang-omni](https://github.com/sgl-project/sglang-omni)** — built the CUDA IPC weight export/import library at the core of same-GPU data-parallel weight sharing ([#1124](https://github.com/sgl-project/sglang-omni/pull/1124), merged): multiple DP replicas share one copy of model weights on a single GPU via MPS
+
 ## Experience
 
 - **Character.AI — AI Infrastructure** · Serving performance for production LLM fleets; capacity and efficiency analysis across multi-hundred-GPU AMD clusters
