@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yuanfan Chen</h1>
 
 <p align="center">
-  <strong>ML Systems Researcher</strong>
+  <strong>I make large-scale LLM & multimodal inference fast — in production and on paper.</strong>
 </p>
 
 <p align="center">
@@ -12,32 +12,38 @@
 
 ## About Me
 
-I am an ML systems researcher working on efficient infrastructure for large-scale machine learning. My research focuses on model inference, distributed scheduling, and hardware-aware optimization.
+I'm an ML systems engineer and researcher focused on the performance of
+large-scale model inference — LLMs today, and increasingly multimodal
+models. On the engineering side: serving performance for Character.AI's
+production LLM clusters (AMD GPUs at scale) and distributed-database
+infrastructure at Tencent. On the research side: tail-aware LLM
+scheduling at Cornell Tech (ICML 2026) and DPU benchmarking at UofT's
+Far Data Lab (arXiv 2025). The two feed each other: production
+bottlenecks become research questions, and research results ship.
 
-I received my M.Eng. in Computer Science from Cornell University and my B.Sc. in Computer Science from the University of Toronto. I have research and engineering experience at Cornell Tech, Tencent, and the University of Toronto's Far Data Lab.
+## What I Work On
 
-## Research Interests
+- LLM inference performance: batching, KV-cache behavior, scheduling, serving efficiency
+- Multimodal model serving: inference efficiency for vision-language and generative-media workloads
+- Distributed scheduling — tail-latency-aware, at production scale
+- Hardware-aware optimization: GPU (CUDA/ROCm) and DPU systems
+- The load-bearing plumbing: admission control, fault tolerance, capacity planning
 
-- Large-scale model inference systems
-- Distributed scheduling
-- Hardware-aware kernel optimization
-- ML infrastructure and database systems
+## Experience
 
-## Selected Publications
+- **Character.AI — AI Infrastructure** · Serving performance for production LLM fleets; capacity and efficiency analysis across multi-hundred-GPU AMD clusters
+- **Tencent — AI Infrastructure Engineer** · Distributed database internals: admission control, fault-tolerant cluster recovery
+- **Cornell Tech — Research Assistant** · Tail-aware scheduling for LLM inference and high-fidelity serving simulation (→ ICML 2026)
+- **UofT Far Data Lab — Research Assistant** · DPU performance benchmarking for cloud data processing (→ arXiv 2025)
 
-- **Beyond Prediction: Tail-Aware Scheduling for LLM Inference**  
-  Yueying Li, **Yuanfan Chen**, Jiayang Chen, Esha Choukse, Haoran Qiu, G. Edward Suh, Rodrigo Fonseca, Ziv Scully, Udit Gupta  
+## Publications
+
+- **Beyond Prediction: Tail-Aware Scheduling for LLM Inference** —
+  Yueying Li, **Yuanfan Chen**, Jiayang Chen, Esha Choukse, Haoran Qiu, G. Edward Suh, Rodrigo Fonseca, Ziv Scully, Udit Gupta ·
   *ICML 2026* · [arXiv](https://arxiv.org/abs/2606.18431) · [Project Website](https://yl3469.github.io/uniboost-icml26/)
-
-- **Making Sense of DPU Performance for Cloud Data Processing: Experiment, Analysis & Benchmark**  
-  Jiasheng Hu, Chihan Cui, **Yuanfan Chen**, Philip A. Bernstein, Jialin Li, Qizhen Zhang  
+- **Making Sense of DPU Performance for Cloud Data Processing: Experiment, Analysis & Benchmark** —
+  Jiasheng Hu, Chihan Cui, **Yuanfan Chen**, Philip A. Bernstein, Jialin Li, Qizhen Zhang ·
   *arXiv, 2025* · [arXiv](https://arxiv.org/abs/2504.05536)
-
-## Experience Highlights
-
-- **Research Assistant, Cornell Tech** — LLM serving, tail-aware scheduling, and high-fidelity simulation
-- **AI Infrastructure Engineer, Tencent** — distributed databases, admission control, and fault-tolerant cluster recovery
-- **Research Assistant, University of Toronto** — DPU benchmarking and data-processing offload
 
 ## Education
 
