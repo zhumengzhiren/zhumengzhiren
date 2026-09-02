@@ -35,7 +35,7 @@ bottlenecks become research questions, and research results ship.
 
 ## Experience
 
-- **Character.AI — AI Infrastructure** · Serving performance for production LLM fleets; capacity and efficiency analysis across multi-hundred-GPU AMD clusters
+- **Character.AI — AI Infrastructure** · Serving performance for production LLM fleets; capacity and efficiency analysis across multi-hundred-GPU clusters
 - **Tencent — AI Infrastructure Engineer** · Distributed database internals: admission control, fault-tolerant cluster recovery
 - **Cornell Tech — Research Assistant** · Tail-aware scheduling for LLM inference and high-fidelity serving simulation (→ ICML 2026)
 - **UofT Far Data Lab — Research Assistant** · DPU performance benchmarking for cloud data processing (→ arXiv 2025)
