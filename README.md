@@ -1,6 +1,6 @@
 # Hi, I'm Yuanfan Chen
 
-I work on ML systems, mostly model inference and serving. At Character.AI, I've worked on LLM serving performance on AMD GPUs. At Cornell Tech, my research focused on tail-aware scheduling for LLM inference.
+I work on ML systems, mostly model inference and serving. At Character.AI, I've worked on LLM serving performance on AMD GPUs. At Cornell Tech, my research focused on efficient LLM serving.
 
 I spend a lot of time thinking about batching, KV caches, and the scheduling decisions that affect latency and throughput. I'm also interested in multimodal inference. Before this, I worked on distributed-database infrastructure at Tencent and DPU benchmarking at UofT.
 
