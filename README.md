@@ -1,6 +1,6 @@
 # Hi, I'm Yuanfan Chen
 
-I work on ML systems, mostly model inference and serving. At Character.AI, I've worked on LLM serving performance on AMD GPUs. At Cornell Tech, my research focused on efficient LLM serving.
+I work on ML systems, mostly model inference and serving. At Character.AI, I work on inference optimization for production LLM serving across thousands of GPUs, mostly KV-cache offloading and kernel work on AMD MI325X/MI350. At Cornell Tech, my research focused on efficient LLM serving.
 
 I spend a lot of time thinking about batching, KV caches, and the scheduling decisions that affect latency and throughput. I'm also interested in multimodal inference. Before this, I worked on distributed-database infrastructure at Tencent and DPU benchmarking at UofT.
 
@@ -12,7 +12,7 @@ I spend a lot of time thinking about batching, KV caches, and the scheduling dec
 
 ## Experience
 
-- **Character.AI — AI Infrastructure:** LLM serving performance and capacity analysis across AMD GPU clusters.
+- **Character.AI — ML Infra Engineer, Inference Optimization:** Production LLM serving (vLLM + LMCache) for the Gemma, DeepSeek, and GLM model families across thousands of GPUs, including AMD MI325X/MI350; hierarchical KV-cache offloading (prefix-cache hit 70% → 90%) and kernel optimization.
 - **Tencent — AI Infrastructure Engineer:** Admission control and fault-tolerant recovery for distributed databases.
 - **Cornell Tech — Research Assistant:** Tail-aware LLM scheduling and serving simulation.
 - **UofT Far Data Lab — Research Assistant:** DPU benchmarking for cloud data processing.
