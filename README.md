@@ -8,7 +8,9 @@ I spend a lot of time thinking about batching, KV caches, and the scheduling dec
 
 ## Open Source
 
+- **[LMCache](https://github.com/LMCache/LMCache)** — KV-cache hit observability for the multi-process lookup path: revived and landed L1/L2 hit attribution and early-exit reasons on the lookup event and request span ([merged PR #4734](https://github.com/LMCache/LMCache/pull/4734)), then added the Prometheus counters that aggregate them per model ([merged PR #4962](https://github.com/LMCache/LMCache/pull/4962)).
 - **[sglang-omni](https://github.com/sgl-project/sglang-omni)** — built the CUDA IPC weight export/import library that lets data-parallel replicas on the same GPU share model weights via MPS ([merged PR #1124](https://github.com/sgl-project/sglang-omni/pull/1124)).
+- **[sglang-omni](https://github.com/sgl-project/sglang-omni)** — Restage: replaces the manual placement grid for multi-stage pipelines with a one-GPU calibration and a capacity model that ranks residency shapes; co-developed the method, integration in review ([PR #2134](https://github.com/sgl-project/sglang-omni/pull/2134)).
 
 ## Experience
 
